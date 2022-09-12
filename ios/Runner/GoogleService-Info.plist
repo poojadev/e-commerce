@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>353053847077-imbnfm87aee88ui3a2aqfui9f2jfeoen.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.353053847077-imbnfm87aee88ui3a2aqfui9f2jfeoen</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>353053847077-73mklffgs18jcfask2p2bjrkcq2kgbg8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPtn-XANGuBVTl5Gb3zudWvD8ZVzJzoDY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>353053847077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sussex.esrsshopping</string>
+	<key>PROJECT_ID</key>
+	<string>esrsshopping</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esrsshopping.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:353053847077:ios:4320bf0ef386088b1059cc</string>
+</dict>
+</plist>

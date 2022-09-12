@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353053847077",
+    "project_id": "esrsshopping",
+    "storage_bucket": "esrsshopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353053847077:android:2affde035baf057d1059cc",
+        "android_client_info": {
+          "package_name": "sussex.esrsshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353053847077-73mklffgs18jcfask2p2bjrkcq2kgbg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sussex.esrsshopping",
+            "certificate_hash": "1b7d2a8419ab61c46ac83a302334d3052da65204"
+          }
+        },
+        {
+          "client_id": "353053847077-khjig4mvhdk302c9euvn56l6fntu0l12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArMMJ9zM_0h6Titr3AlwGsGjvRWcjmqdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353053847077-khjig4mvhdk302c9euvn56l6fntu0l12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
